@@ -1,2 +1,2 @@
-# cupy_ldtw
-An implementation of LDTW based on tslearn library. Using CuPy.
+# cpp_ldtw
+A C++ implementation of LDTW based on tslearn library.
